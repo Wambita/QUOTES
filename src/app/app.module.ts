@@ -1,7 +1,7 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { FormsModule } from '@angular/forms';
-import { TimeAgoPipe } from 'time-ago-pipe';
+//import { TimeAgoPipe } from 'time-ago-pipe';
 
 import { AppComponent } from './app.component';
 import { QuoteComponent } from './components/quote/quote.component';
@@ -16,7 +16,7 @@ import { HighlighterDirective } from './directives/highlighter.directive';
     QuoteComponent,
     QuoteFormComponent,
     QuoteDetailsComponent,
-    TimeAgoPipe,
+    //TimeAgoPipe,
     TimePassedPipe,
     HighlighterDirective
   ],
