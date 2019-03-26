@@ -1,4 +1,4 @@
-#QUOTES.
+# QUOTES.
 #### This project is an application program that enables one to view qoutes, create quotes, upvote or downvote a quote and see the quote  with the most upvotes.
 #### By **Wambita**
 ## Description
