@@ -1,8 +1,8 @@
 # QUOTES.
-#### This project is an application program that enables one to view qoutes, create quotes, upvote or downvote a quote and see the quote  with the most upvotes.
+#### This project is an application program that enables one to view quotes , create new  quotes, upvote or downvote a quote and see the quote  with the most upvotes.
 #### By **Wambita**
 ## Description
-This is an app that allows one to create quotes, see the number of likes and dislikes and also be able to delete quotes. It also enables one to see the most upvoted quote and it also enables him / her to vote for a quote.
+This is an app that allows one to create quotes and submit them.It also enables one to see see the number of likes and dislikes (upvotes and downvotes) and also be able to delete quotes. It also enables one to see the most upvoted quote and it also enables him / her to vote for a quote.
 
 ## Setup/Installation Requirements
 
