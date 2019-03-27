@@ -19,7 +19,7 @@ In order for the program to run well and to give the correct output, the code ha
 
 ### Link To Live Site
 
-[Quotes app](https://Wambita.github.io/Quote)
+[Quotes app](https://Wambita.github.io/quote)
 
 ### License
 
