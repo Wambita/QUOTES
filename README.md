@@ -6,8 +6,8 @@ This is an app that allows one to create quotes, see the number of likes and dis
 
 ## Setup/Installation Requirements
 
-- `git clone https://github.com/Wambita/Quotes.git`
-- `cd Quotes`
+- `git clone https://github.com/Wambita/QUOTES.git`
+- `cd QUOTES`
 - `atom .`(this is if Atom is your preferred text editor)
 - `code .`(this is if Visual Studio Code is your preferred text editor)
 
@@ -19,7 +19,7 @@ In order for the program to run well and to give the correct output, the code ha
 
 ### Link To Live Site
 
-[Quotes app](https://Wambita.github.io/Quotes)
+[Quotes app](https://Wambita.github.io/Quote)
 
 ### License
 
