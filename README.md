@@ -12,10 +12,13 @@ This is an app that allows one to create quotes, see the number of likes and dis
 - `code .`(this is if Visual Studio Code is your preferred text editor)
 
 ### BDD
-In order for the program to run well and to give the correct output, the code had to meet certain criteria:
-1. The user had to enter the name of the author of the quote
-2. The user had to enter the name of the person who entered the quote.
-3. The user had to enter the quote itself where the description of the quote is placed.
+| Behavior        | Result |
+| ------------- |:----:|
+| User inputs username and submits the form inputs | profile of the searched user appears on the results section |
+| User clicks on the search Repository in the navbar | page redirects and shows the search details which are the repositories of the searched user  |
+| User clicks on home in the navbar | page refreshes and fresh inputs are required, default profile shows |
+
+.
 
 ### Link To Live Site
 
